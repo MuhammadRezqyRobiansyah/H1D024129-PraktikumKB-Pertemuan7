@@ -1,4 +1,4 @@
-# H1D024127-PraktikumKB-Pertemuan7
+# H1D024129-PraktikumKB-Pertemuan7
 
 Repositori ini berisi file-file untuk Praktikum Kecerdasan Buatan (KB) Pertemuan 7. Fokus pada pertemuan ini adalah implementasi Jaringan Saraf Tiruan (Artificial Neural Network) menggunakan library Keras dan TensorFlow untuk melakukan klasifikasi pada dataset Iris.
 
